@@ -1,2 +1,2 @@
 # HackerRank
-Challenges solved
+Challenges I solved using JavaScript.
