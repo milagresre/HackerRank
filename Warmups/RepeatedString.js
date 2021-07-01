@@ -21,14 +21,4 @@ for(let i = 0; i<rest;i++){
 }
 
 let totalOfAs = qtd*count+res;
-console.log(`Contador de A: ${qtd}`)
-console.log(`Contador de A: ${count}`)
-console.log(`Contador de A do resto: ${qtd*count+res}`)
 
-
-
-
- 
-console.log(bigString)
-
-//count = bigString.split("a").length-1
